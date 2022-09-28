@@ -6,9 +6,20 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 [Andrei Stoica](https://github.com/andreicstoica)
 
-## Stakeholders
-
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+## Stakeholder Interview
+**Interview Details:**
+- Hansen Lian, a 20 year old frequent thrifter (buys most of their clothes second hand)
+- Has experience thrifting in their home town, as well as Washington D.C. where they attend university
+**Problems/Frustrations**
+- Frustrating having to dig through racks, and return often to find something you both like and fits - takes so much time!
+- Annoying not being able to check inventory online (expectation is now to be able to do this).
+- Frustrated that there isn’t a system alerted of certain items. 
+- Would ideally want to be able to get quotes for their own clothes online. (consignment) 
+**Goals/Needs**
+- To be able to view store inventory online (size + price as well).
+- Be able to sign up for alerts for certain brands, items, sizes. 
+- Automated quote tool for the consignment aspect of thrift stores.
+- Have an account to view store balance/manage alerts. 
 
 ## Product Vision Statement
 
