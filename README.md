@@ -7,7 +7,7 @@ A little exercise to get started with the specification phase of the software de
 [Andrei Stoica](https://github.com/andreicstoica)
 
 ## Stakeholder Interview
-**Interview Details:**
+**Interview Details**
 - Hansen Lian, a 20 year old frequent thrifter (buys most of their clothes second hand)
 - Has experience thrifting in their home town, as well as Washington D.C. where they attend university
   
