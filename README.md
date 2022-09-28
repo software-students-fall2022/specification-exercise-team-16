@@ -24,8 +24,7 @@ A little exercise to get started with the specification phase of the software de
 - Have an account to view store balance/manage alerts. 
 
 ## Product Vision Statement
-
-See instructions. Delete this line and place your Product Vision Statement here.
+An app that creates a digital catalog for thrift stores, where users can also manage their settings and get quotes for their own clothes. 
 
 ## User Requirements
 
