@@ -7,6 +7,7 @@ A little exercise to get started with the specification phase of the software de
 - [Andrei Stoica](https://github.com/andreicstoica)
 - [Laura Mazoni Lourenco](https://github.com/qlaueen)
 - [Larry Li](https://github.com/86larryli)
+- [Leo Xu](https://github.com/leo6016)
 
 
 ## Stakeholder Interview
