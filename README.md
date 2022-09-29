@@ -4,8 +4,9 @@
 A little exercise to get started with the specification phase of the software development lifecycle. See the [instructions](instructions.md) for more detail.
 
 ## Team members
-[Andrei Stoica](https://github.com/andreicstoica)
-[Laura Mazoni Lourenco](https://github.com/qlaueen)
+- [Andrei Stoica](https://github.com/andreicstoica)
+- [Laura Mazoni Lourenco](https://github.com/qlaueen)
+- [Larry Li](https://github.com/86larryli)
 
 
 ## Stakeholder Interview
