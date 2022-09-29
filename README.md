@@ -30,8 +30,17 @@ A little exercise to get started with the specification phase of the software de
 An app that creates a digital catalog for thrift stores, where users can also manage their settings and get quotes for their own clothes. 
 
 ## User Requirements
-
-See instructions. Delete this line and place a list of your User Stories here.
+1. As a customer, I want to sign up so I can start making reservations and selling stuff.
+1. As a customer, I want to log in so I can start making reservations and selling stuff.
+1. As a customer, I want to manage my account so I can change my personal information.
+1. As a customer, I want to view the store inventory so I don't have to go in person.
+1. As a customer, I want to receive alerts for something I'm interested in so I won't miss the item.
+1. As a customer, I want to reserve the product I like so I don't waste my time going to the store to find out it is sold out.
+1. As a customer, I want to manage my reservation so I can cancel a reservation I am no longer interested in.
+1. As a customer, I want to give information on the product I want to sell to the store owner so I can get a quote before going to the store.
+1. As a store owner, I want to manage store inventory so I can add/update/remove products when needed.
+1. As a store owner, I want to see the customer's reservation so I can take the product off the shelf.
+1. As a store owner, I want to see the customer's submitted selling form so I can contact them regarding the item.
 
 ## Activity Diagrams
 
