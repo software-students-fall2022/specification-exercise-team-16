@@ -9,9 +9,8 @@ A little exercise to get started with the specification phase of the software de
 - [Larry Li](https://github.com/86larryli)
 - [Leo Xu](https://github.com/leo6016)
 
-
 ## Stakeholder Interview
-**Interview Details**
+**Interview #1 Details**
 - Hansen Lian, a 20 year old frequent thrifter (buys most of their clothes second hand)
 - Has experience thrifting in their home town, as well as Washington D.C. where they attend university
   
@@ -26,6 +25,21 @@ A little exercise to get started with the specification phase of the software de
 - Be able to sign up for alerts for certain brands, items, sizes. 
 - Automated quote tool for the consignment aspect of thrift stores.
 - Have an account to view store balance/manage alerts. 
+
+**Interview #2 Details**
+- Harry, a mid 20s year old employee at Hamlet's vintage.
+  
+**Problems/Frustrations**
+- Customers are often overhwhelmed by the amount of clothes in the store and don't want to look through everything.
+- Takes a long time for customers to find a few pieces that fit them and match their style.
+- Customers that want to sell their clothes to Hamlet's are sometimes disappointed by how much they are willing to credit. 
+- Customers see how crowded the store is and leave before looking.
+  
+**Goals/Needs**
+- Give customers less options to reduce burden of choice.
+- Help customers find their sizes and styles faster.
+- Have a more transparent pricing system for those selling their clothes to Hamlet's 
+- Clear up the physical space in the store to allow for more customers. 
 
 ## Product Vision Statement
 An app that creates a digital catalog for thrift stores, where users can also manage their settings and get quotes for their own clothes. 
