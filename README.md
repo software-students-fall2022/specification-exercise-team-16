@@ -5,6 +5,8 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 [Andrei Stoica](https://github.com/andreicstoica)
+[Laura Mazoni Lourenco](https://github.com/qlaueen)
+
 
 ## Stakeholder Interview
 **Interview Details**
@@ -33,3 +35,7 @@ See instructions. Delete this line and place a list of your User Stories here.
 ## Activity Diagrams
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
+
+## Wireframe diagrams
+
+[Wireframe diagram here.](https://www.figma.com/file/PaCajW4fRFDzCO8RtN7roS/Project1?node-id=0%3A1)
