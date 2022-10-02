@@ -59,7 +59,7 @@ An app that creates a digital catalog for thrift stores, where users can also ma
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+![My Image](user story6.png)
 
 ## Wireframe diagrams
 
