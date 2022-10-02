@@ -60,6 +60,8 @@ An app that creates a digital catalog for thrift stores, where users can also ma
 ## Activity Diagrams
 Diagram for user story 6:
 ![User Story 6](user_story6.png "User Story #6")
+Diagram for user story 8:
+![User Story 8](user_story8.png "User Story #8")
 
 ## Wireframe diagrams
 
