@@ -58,7 +58,7 @@ An app that creates a digital catalog for thrift stores, where users can also ma
 1. As a store owner, I want to see the customer's submitted selling form so I can contact them regarding the item.
 
 ## Activity Diagrams
-
+Diagram for user story 6:
 ![User Story 6](user_story6.png "User Story #6")
 
 ## Wireframe diagrams
