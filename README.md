@@ -59,7 +59,7 @@ An app that creates a digital catalog for thrift stores, where users can also ma
 
 ## Activity Diagrams
 
-![My Image](user story6.png)
+[My Image](user story6.png)
 
 ## Wireframe diagrams
 
